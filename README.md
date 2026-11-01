@@ -15,10 +15,10 @@ interfaces to cloud infrastructure.
 
 ## Technology
 
-React · TypeScript · Python · Node.js · Go · Rust
-GCP · AWS · Terraform · Kubernetes 
-DBs (SQL, noSQL, Vector, Graph, others.)
-Data Driven Solution · Event Driven · DDD · TDD
+- React · TypeScript · Python · Node.js · Go · Rust
+- GCP · AWS · Terraform · Kubernetes 
+- DBs (SQL, noSQL, Vector, Graph, others.)
+- Data Driven Solution · Event Driven · DDD · TDD
 
 ## Featured work
 
